@@ -1,0 +1,7 @@
+venv
+__pycache__
+*7__pycache__s
+log/
+config/
+data/
+docs/
